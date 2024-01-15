@@ -1,0 +1,7 @@
+[merge]
+	tool = kdiff3
+[diff]
+	guitool = kdiff3
+[user]
+	name = Kevin Azangue
+	email = kevinromuald@gmail.com
